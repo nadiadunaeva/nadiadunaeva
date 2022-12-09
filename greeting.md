@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @nadiadunaeva
-- 👀 I’m interested in React, JS, HTML/CSS
-- 💞️ I’m looking to collaborate on react projects
-- 📫 You can reach me via nadiadunaeva@gmail.com
